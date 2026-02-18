@@ -1,0 +1,6 @@
+td, th{
+    width: auto;
+    text-align: center;
+    vertical-align: middle;   /* center vertically */
+    padding: 15px;
+}

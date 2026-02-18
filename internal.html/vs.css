@@ -1,0 +1,33 @@
+td, th{
+    width: auto;
+    text-align: center;
+    vertical-align: middle;  
+    padding: 15px;
+}
+<style>
+
+.starters-row {
+    background-color:white;   
+}
+
+.starters-items {
+    background-color: skyblue;
+}
+
+.main-row {
+    background-color:pink;   
+}
+
+.main-items {
+    background-color:yellow;
+}
+
+.dessert-row {
+    background-color:green;  
+}
+
+.dessert-items {
+    background-color:violet;
+}
+
+</style>
